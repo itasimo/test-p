@@ -1,0 +1,19 @@
+[
+  {
+    "id": "001",
+    "titolo": "Aula studio aperta il pomeriggio",
+    "sottotitolo": "Apertura della biblioteca fino alle 18:00, da lunedì a giovedì",
+    "descrizione": "Chiediamo al Consiglio d’Istituto di mantenere la biblioteca aperta come aula studio sorvegliata nel pomeriggio. Molti studenti pendolari restano a scuola fra le lezioni del mattino e le attività pomeridiane, senza un luogo dove studiare.",
+    "target": 150,
+    "promotore": "Rappresentanti d’Istituto",
+    "scadenza": "2026-12-20T23:59:59.000Z"
+  },
+  {
+    "id": "002",
+    "titolo": "Distributori con alternative senza zucchero",
+    "sottotitolo": "Almeno il 40% dei prodotti a basso contenuto di zuccheri",
+    "descrizione": "Chiediamo che il prossimo bando per i distributori automatici includa una quota minima di prodotti senza zuccheri aggiunti e acqua a prezzo calmierato.",
+    "target": 100,
+    "promotore": "Commissione Salute"
+  }
+]

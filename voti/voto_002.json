@@ -1,0 +1,14 @@
+[
+  {
+    "verifier": "d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9",
+    "timestamp": "2026-09-10T12:00:00.000Z",
+    "dominio": "studenti.iisfalcone-righi.edu.it",
+    "scelta": "si"
+  },
+  {
+    "verifier": "e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0",
+    "timestamp": "2026-09-11T14:00:00.000Z",
+    "dominio": "studenti.iisfalcone-righi.edu.it",
+    "scelta": "si"
+  }
+]

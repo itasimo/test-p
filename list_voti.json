@@ -1,0 +1,17 @@
+[
+  {
+    "id": "001",
+    "titolo": "Nuova mensa scolastica",
+    "sottotitolo": "Costruzione di una nuova mensa con cucina interna",
+    "descrizione": "Si vota per decidere se destinare i fondi del PNRR alla costruzione di una nuova mensa scolastica con cucina interna, che permetterebbe pasti freschi e di qualità per tutti gli studenti.",
+    "promotore": "Consiglio d'Istituto",
+    "scadenza": "2026-12-20T23:59:59.000Z"
+  },
+  {
+    "id": "002",
+    "titolo": "Orario continuato il sabato",
+    "sottotitolo": "Lezioni solo al mattino, pomeriggio libero",
+    "descrizione": "Si vota per decidere se mantenere l'orario continuato al sabato (solo mattina) invece del rientro pomeridiano, per agevolare gli studenti pendolari.",
+    "promotore": "Rappresentanti degli Studenti"
+  }
+]

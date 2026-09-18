@@ -15,5 +15,14 @@
     "descrizione": "Vota De Bellis, vota sinistra",
     "target": 100,
     "promotore": "Partito Comunista Cinese"
-  }
+  },
+  {
+    "id": "003",
+    "titolo": "Test",
+    "sottotitolo": "Apertura della biblioteca fino alle 18:00, da lunedì a giovedì",
+    "descrizione": "Chiediamo al Consiglio d’Istituto di mantenere la biblioteca aperta come aula studio sorvegliata nel pomeriggio. Molti studenti pendolari restano a scuola fra le lezioni del mattino e le attività pomeridiane, senza un luogo dove studiare.",
+    "target": 150,
+    "promotore": "Rappresentanti d’Istituto",
+    "scadenza": "2026-08-20T23:59:59.000Z"
+  },
 ]

@@ -4,5 +4,17 @@
     "timestamp": "2026-09-16T19:37:24.993Z",
     "dominio": "studenti.iisfalcone-righi.edu.it",
     "scelta": "si"
+  },
+  {
+    "verifier": "f052620aa4ff3d999930071802a37ff5",
+    "timestamp": "2026-09-16T19:37:24.993Z",
+    "dominio": "studenti.iisfalcone-righi.edu.it",
+    "scelta": "si"
+  },
+  {
+    "verifier": "f052620aa4ff3d999930071802a37ff6",
+    "timestamp": "2026-09-16T19:37:24.993Z",
+    "dominio": "studenti.iisfalcone-righi.edu.it",
+    "scelta": "no"
   }
 ]
